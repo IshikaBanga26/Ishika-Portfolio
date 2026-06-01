@@ -29,13 +29,13 @@ const projects = [
     github: "https://github.com/IshikaBanga26/TabMind-CLI",
   },
   {
-    title: "Shesells",
+    title: "ZipURL",
     description:
-      "A digital marketplace where rural women artisans bring their creativity, culture, and products directly to you.",
+      "A URL shortening service that allows users to create and manage short links with analytics and custom branding.",
     image: "projects/project4.png",
-    tags: ["WordPress", "Hostinger"],
-    link: "https://shesells.in",
-    github: "",
+    tags: ["React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
+    link: "https://zipurl-1ot.pages.dev/",
+    github: "https://github.com/IshikaBanga26/ZipURL",
   }
 ];
 
