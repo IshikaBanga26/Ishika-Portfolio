@@ -2,15 +2,6 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Object Detection Model",
-    description:
-      "A machine learning model for detecting objects in images using TensorFlow and OpenCV.",
-    image: "projects/project1.png",
-    tags: ["Python", "TensorFlow", "OpenCV"],
-    link: "https://github.com/IshikaBanga26/Object-Detection",
-    github: "https://github.com/IshikaBanga26/Object-Detection",
-  },
-  {
     title: "SmartInvest",
     description:
       "A smart investment planning application designed to help users make informed financial decisions.",
@@ -20,13 +11,13 @@ const projects = [
     github: "https://github.com/DipeshRaghav/Portfolio-Optimization-using-ML-and-Financial-APIs",
   },
   {
-    title: "TabMind-CLI",
+    title: "TaskQuill",
     description:
-      "A tool that helps you manage saved browser tabs and generate AI-powered productivity reminders",
+      "A full-stack task management web application in which users can register, log in securely, and manage their daily tasks — add, edit, delete, and mark them as completed or pending.",
     image: "projects/project3.png",
-    tags: ["Python", "GitHub CLI"],
-    link: "https://tabmind-cli.pages.dev",
-    github: "https://github.com/IshikaBanga26/TabMind-CLI",
+    tags: ["React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
+    link: "https://taskquill.pages.dev",
+    github: "https://github.com/IshikaBanga26/TaskQuill",
   },
   {
     title: "ZipURL",
@@ -36,6 +27,15 @@ const projects = [
     tags: ["React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
     link: "https://zipurl-1ot.pages.dev/",
     github: "https://github.com/IshikaBanga26/ZipURL",
+  },
+  {
+    title: "Object Detection Model",
+    description:
+      "A machine learning model for detecting objects in images using TensorFlow and OpenCV.",
+    image: "projects/project1.png",
+    tags: ["Python", "TensorFlow", "OpenCV"],
+    link: "https://github.com/IshikaBanga26/Object-Detection",
+    github: "https://github.com/IshikaBanga26/Object-Detection",
   }
 ];
 

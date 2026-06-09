@@ -10,7 +10,6 @@ const skills = [
   "Tailwind CSS",
   "JavaScript",
   "React",
-  "AWS",
   "Git",
   "GitHub",
   "Wordpress",
@@ -18,6 +17,7 @@ const skills = [
   "Express.js",
   "MongoDB",
   "MySQL",
+  "PostgreSQL",
 ]
 
 export const Hero = () => {
