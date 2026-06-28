@@ -11,6 +11,15 @@ const projects = [
     github: "https://github.com/DipeshRaghav/Portfolio-Optimization-using-ML-and-Financial-APIs",
   },
   {
+    title: "SpendGage",
+    description:
+      "AI-powered receipt and expense cost-per-unit calculator for indie creators, home bakers, and crafters.",
+    image: "projects/project1.png",
+    tags: ["React", "Tailwind CSS", "Node.js", "Express.js", "PostgreSQL"],
+    link: "https://spendgage.pages.dev/",
+    github: "https://github.com/IshikaBanga26/SpendGage",
+  },
+  {
     title: "TaskQuill",
     description:
       "A full-stack task management web application in which users can register, log in securely, and manage their daily tasks — add, edit, delete, and mark them as completed or pending.",
@@ -27,15 +36,6 @@ const projects = [
     tags: ["React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
     link: "https://zipurl-1ot.pages.dev/",
     github: "https://github.com/IshikaBanga26/ZipURL",
-  },
-  {
-    title: "Object Detection Model",
-    description:
-      "A machine learning model for detecting objects in images using TensorFlow and OpenCV.",
-    image: "projects/project1.png",
-    tags: ["Python", "TensorFlow", "OpenCV"],
-    link: "https://github.com/IshikaBanga26/Object-Detection",
-    github: "https://github.com/IshikaBanga26/Object-Detection",
   }
 ];
 
