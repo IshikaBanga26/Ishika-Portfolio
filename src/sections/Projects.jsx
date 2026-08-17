@@ -20,6 +20,15 @@ const projects = [
     github: "https://github.com/IshikaBanga26/SpendGage",
   },
   {
+    title: "ConnecTide",
+    description:
+      "It is a smart student networking platform that helps users discover like-minded peers, build teams, and grow their professional network.",
+    image: "projects/project4.png",
+    tags: ["Next.js", "TypeScript", "PostgreSQL","LLM API","Socket.IO"],
+    link: "https://connectide-three.vercel.app/",
+    github: "https://github.com/IshikaBanga26/ConnecTide-Uni",
+  },
+  {
     title: "TaskQuill",
     description:
       "A full-stack task management web application in which users can register, log in securely, and manage their daily tasks — add, edit, delete, and mark them as completed or pending.",
@@ -27,15 +36,6 @@ const projects = [
     tags: ["React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
     link: "https://taskquill.pages.dev",
     github: "https://github.com/IshikaBanga26/TaskQuill",
-  },
-  {
-    title: "ZipURL",
-    description:
-      "A URL shortening service that allows users to create and manage short links with analytics and custom branding.",
-    image: "projects/project4.png",
-    tags: ["React", "Node.js", "MongoDB","Express", "Tailwind CSS"],
-    link: "https://zipurl-1ot.pages.dev/",
-    github: "https://github.com/IshikaBanga26/ZipURL",
   }
 ];
 
